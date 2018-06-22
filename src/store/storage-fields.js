@@ -1,0 +1,15 @@
+export const STRONGE_TEST_KEY = 'test'
+// app
+export const STRONGE_SIDEBAR_OPENED_KEY = 'sidebar-opened'
+export const STRONGE_LANGUAGE_KEY = 'language'
+export const STRONGE_DEVICE_KEY = 'device'
+// user
+export const STRONGE_USER_USER_KEY = 'user-user'
+export const STRONGE_USER_STATUS_KEY = 'user-status'
+export const STRONGE_USER_CODE_KEY = 'user-code'
+export const STRONGE_USER_TOKEN_KEY = 'user-token'
+export const STRONGE_USER_NAME_KEY = 'user-name'
+export const STRONGE_USER_AVATAR_KEY = 'user-avatar'
+export const STRONGE_USER_INTRODUCTION_KEY = 'user-introduction'
+export const STRONGE_USER_ROLES_KEY = 'user-roles'
+export const STRONGE_USER_SETTING_KEY = 'user-setting'
